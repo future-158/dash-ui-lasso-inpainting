@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+dash
+diffusers
+gradio_client
+gradio
+opencv-python
+scipy
+pandas
+transformers
+accelerate
+ftfy
+safetensors
+xformers
+nbformat

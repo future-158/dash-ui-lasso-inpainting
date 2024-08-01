@@ -3,14 +3,7 @@
 lasso selector ( 마우스 누른 채로 움직이면서 polygon 그리는 것 )로 영역 지정 후에 inpainting하는 UI
 
 
-[Watch the demo video](assets/demo.mp4)
-
-<video width="320" height="240" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+![Demo](assets/demo.gif)
 
 
 diffusion UI는 기능도 많고 내겐 너무 복잡하여 많아서, 단순히 plotly dash를 사용함
@@ -43,12 +36,7 @@ demo-lasso.py
 inpainting ui가 되는 것임
 
 
-[Watch the tutorial video](assets/tutorial.mp4)
-
-<video width="320" height="240" controls>
-  <source src="assets/tutorial.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Tutorial](assets/tutorial.gif)
 
 
 

@@ -1,3 +1,4 @@
+[EN](README_en.md)
 # introduction
 
 lasso selector ( 마우스 누른 채로 움직이면서 polygon 그리는 것 )로 영역 지정 후에 inpainting하는 UI
